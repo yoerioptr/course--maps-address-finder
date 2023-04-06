@@ -1,3 +1,5 @@
+import {apiKeys} from "./api-keys";
+
 const form = document.querySelector('form')! as HTMLFormElement;
 const addressInput = document.getElementById('address')! as HTMLInputElement;
 
